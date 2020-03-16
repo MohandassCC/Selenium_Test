@@ -21,7 +21,7 @@ public class TestUtil extends TestBase {
 	public static long PAGE_LOAD_TIMEOUT = 20;
 	public static long IMPLICIT_WAIT = 20;
 
-	public static String TESTDATA_SHEET_PATH = "/workspace"
+	public static String TESTDATA_SHEET_PATH = "E://GIT_REPO//Test//"
 			+ "FreeCrmTestData.xlsx";
 
 	static Workbook book;
