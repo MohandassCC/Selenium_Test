@@ -1,10 +1,1 @@
-*.svn
-*.idea
-.idea/*
-*.iml
-work/*
-target/*
-.settings/
-.classpath
-.project
 /target/
